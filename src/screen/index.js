@@ -1,0 +1,13 @@
+export {default as Home} from './Home/Home.js';
+export {default as Square} from './Home/01_SqureLend/Squre.js';
+export {default as Rectangular} from './Home/02_RectangularLend/Rectangular.js';
+export {default as Triangular} from './Home/03_TriangularLeand/Triangular';
+export {default as Circular} from './Home/04_CircularLand/Circular';
+export {default as Circle} from './Home/05_CircleLeand/Circle';
+export {default as Ellipse} from './Home/06_EllipseLeand/Ellipse';
+export {default as Polygon} from './Home/07_Polygon/Polygon.js';
+export {default as Akok} from './Home/08_All_Akok/Akok.js';
+export {default as Calculator} from './Calculator/Calculator';
+export {default as About} from './About/About';
+export {default as Privacy} from './Privacy/Privacy';
+export {default as SplasScreen} from '../Components/SplasScreen.js';

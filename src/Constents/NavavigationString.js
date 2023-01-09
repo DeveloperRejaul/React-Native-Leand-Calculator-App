@@ -1,0 +1,16 @@
+export default {
+  HOME: 'Home',
+  CALCULATOR: 'Calculator',
+  SQUARE: 'Square',
+  ABOUT: 'AboutUs',
+  PRIVACY: 'Privacy',
+  RECTANGULAR: 'Rectangular',
+  TRIANGULAR: 'Triangular',
+  CIRCLE: 'Circle',
+  CIRCULAR: 'CircularLand',
+  ELLIPSE: ' Ellipse',
+  POLYGON: ' Polygon',
+  ALL_AKOK: ' All_Akok',
+  SPLASS_SCREEN: 'SplasScreen',
+  SETTINGS: 'Settings',
+};
